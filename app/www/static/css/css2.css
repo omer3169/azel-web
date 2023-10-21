@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v10/rP2Cp2ywxg089UriASitOB8.ttf) format('truetype');
+}
+.ship {
+	position: fixed;
+	top: 40px;
+	right: 5px;
+	text-align: right;
+  }
+  
+  .ship p {
+	color: #a480f5;
+	font-size: 14px;
+	font-weight: 400;
+	margin: 0;
+  }
+  .ship p span {
+	font-weight: 300;
+  }
+  .disclaimer{
+
+    display: none;
+
+}
